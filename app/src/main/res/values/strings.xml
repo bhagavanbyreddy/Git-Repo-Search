@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GitRepoSearch App</string>
+    <string name="contributors"><u>Contributors</u></string>
+</resources>
